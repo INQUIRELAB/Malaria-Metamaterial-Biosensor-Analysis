@@ -169,7 +169,7 @@ Use `Surface Roughness of Gold.csv` to reproduce the roughness-dependent absorpt
 
 ## License
 
-This project is released under the **MIT License**, unless otherwise specified in the repository. You are free to use, modify, and distribute the code and datasets with appropriate attribution.
+This repository is released under the **INQUIRE Lab Academic Research License** (see `LICENSE`). Non-commercial academic use only. Commercial use, redistribution, and derivative works require prior written permission, and no patent rights are granted.
 
 ---
 
